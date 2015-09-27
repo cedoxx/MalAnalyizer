@@ -1,5 +1,5 @@
 # MalAnalyizer
-PCAP to CSV [Protect all packet fields]
+Convert PCAP (packet captures) to CSV [Protect all packet fields]
 
 To Execute PCapProcess.java specifying 2 arguments:
 1. Input path (containing pcap files)
