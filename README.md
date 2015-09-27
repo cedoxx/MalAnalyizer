@@ -1,4 +1,4 @@
-# MalAnalizer
+# MalAnalyizer
 PCAP to CSV [Protect all packet fields]
 
 To Execute PCapProcess.java specifying 2 arguments:
